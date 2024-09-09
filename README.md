@@ -271,6 +271,11 @@ npm install eslint-config-prettier --save-dev
 yarn add husky --dev
 npm install husky --save-dev
 ```
+### 12.1. Init Husky:
+
+```typescript
+yarn husky install
+```
 
 ### 13. Install lint-staged:
 
