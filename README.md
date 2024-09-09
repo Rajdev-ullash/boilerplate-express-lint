@@ -274,7 +274,7 @@ npm install husky --save-dev
 ### 12.1. Init Husky:
 
 ```typescript
-npx husky-init
+npx husky init
 ```
 
 ### 13. Install lint-staged:
